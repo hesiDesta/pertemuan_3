@@ -1,0 +1,40 @@
+.container{
+    height: 90dvh;
+    width: 150dvh;
+    background-color: rgb(81, 95, 107);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+
+}
+
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+
+.hewan p{
+    width: 250px;
+    color: white;
+    text-align: justify;
+}
+
+.hewan h3{
+    color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rosybrown;
+}
+.hewan div{
+    display: flex;
+    justify-content: center;
+}
